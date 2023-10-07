@@ -12,11 +12,12 @@ const TransactionManagementContainer = memo(() => {
         to track your spending, monitor balances, and stay on top of your
         finances.
       </div>
-      <div className="rectangle-parent8">
-        <div className="group-child26" />
-        <div className="enter-your-email">Enter your email</div>
-        <div className="create-account-wrapper">
-          <div className="create-account">Create Account</div>
+      <div className="frame-parent31">
+        <div className="frame45">
+          <div className="enter-your-email">Enter your email</div>
+        </div>
+        <div className="create-account-container">
+          <div className="create-account1">Create Account</div>
         </div>
       </div>
     </div>

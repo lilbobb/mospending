@@ -1,9 +1,9 @@
-<svg width="33" height="21" viewBox="0 0 33 21" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect x="0.324219" y="3.276" width="14.625" height="14.625" fill="url(#pattern0)"/>
-<circle cx="21.8049" cy="10.5885" r="10.2375" fill="white"/>
-<circle cx="21.8037" cy="10.5889" r="7.3125" fill="#F0F0F0"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M19.2534 3.7179C16.4503 4.74148 14.4492 7.43147 14.4492 10.5888C14.4492 13.7462 16.4503 16.4362 19.2534 17.4598V3.7179Z" fill="#0F56CA"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M24.3564 17.4589C27.1593 16.4352 29.1602 13.7453 29.1602 10.5881C29.1602 7.43087 27.1593 4.74099 24.3564 3.71728L24.3564 17.4589Z" fill="#F1375E"/>
+<svg width="32" height="22" viewBox="0 0 32 22" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="0.210938" y="3.90747" width="14.625" height="14.625" fill="url(#pattern0)"/>
+<circle cx="21.6916" cy="11.22" r="10.2375" fill="white"/>
+<circle cx="21.6904" cy="11.2204" r="7.3125" fill="#F0F0F0"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.1401 4.34937C16.337 5.37295 14.3359 8.06294 14.3359 11.2203C14.3359 14.3777 16.337 17.0677 19.1401 18.0913V4.34937Z" fill="#0F56CA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24.2432 18.0903C27.046 17.0666 29.0469 14.3767 29.0469 11.2195C29.0469 8.06234 27.046 5.37246 24.2432 4.34875L24.2432 18.0903Z" fill="#F1375E"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_16_328" transform="scale(0.0005)"/>

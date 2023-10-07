@@ -12,30 +12,30 @@
   width: 48.44rem;
   opacity: 0.6;
 }
-.group-child26 {
-  position: absolute;
-  top: 0;
-  left: 0;
+.enter-your-email {
+  position: relative;
+  font-weight: 500;
+  opacity: 0.7;
+}
+.frame45 {
   border-radius: 31px;
   background-color: rgba(255, 255, 255, 0.16);
   width: 22rem;
   height: 2.56rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 1.56rem;
+  box-sizing: border-box;
 }
-.enter-your-email {
-  position: absolute;
-  top: 26.83%;
-  left: 6.14%;
-  font-weight: 500;
-  opacity: 0.7;
-}
-.create-account {
+.create-account1 {
   position: relative;
   font-weight: 500;
 }
-.create-account-wrapper {
-  position: absolute;
-  top: 0;
-  left: 15.94rem;
+.create-account-container {
   border-radius: 31px;
   background-color: #ffa051;
   display: flex;
@@ -43,25 +43,29 @@
   align-items: flex-start;
   justify-content: flex-start;
   padding: 0.69rem 1.5rem;
+  margin-left: -6.06rem;
   color: #fff;
 }
-.rectangle-parent8 {
-  position: relative;
+.frame-parent31,
+.our-fintech-app-makes-managing-parent {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-parent31 {
   width: 25.44rem;
   height: 2.56rem;
+  flex-direction: row;
   text-align: left;
   font-size: 0.88rem;
   color: #dfdfdf;
 }
 .our-fintech-app-makes-managing-parent {
-  position: absolute;
-  top: 12.38rem;
-  left: 5.25rem;
-  display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
   gap: 1.5rem;
+  position: undefined;
+  width: 71.19rem;
+  margin-top: 42.44rem;
   text-align: center;
   font-size: 5rem;
   color: #fff;

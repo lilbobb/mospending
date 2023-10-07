@@ -1,4 +1,4 @@
-.vector-icon31 {
+.vector-icon19 {
   position: absolute;
   height: 29.6%;
   width: 11.38%;
@@ -18,11 +18,11 @@
   height: 11.25rem;
   flex-shrink: 0;
 }
-.create-account1 {
+.create-account {
   position: relative;
   font-weight: 500;
 }
-.create-account-container {
+.create-account-wrapper {
   border-radius: 31px;
   background-color: #ffa051;
   display: flex;
@@ -43,12 +43,9 @@
   justify-content: flex-start;
   gap: 2.5rem;
 }
-.frame-child7,
-.icon8 {
-  max-width: 100%;
-  max-height: 100%;
-}
-.frame-child7 {
+.frame-child58,
+.icon6,
+.icon7 {
   position: absolute;
   height: 16.44%;
   width: 6.38%;
@@ -56,9 +53,12 @@
   right: 93.62%;
   bottom: 83.56%;
   left: 0;
+  max-width: 100%;
   overflow: hidden;
+  max-height: 100%;
 }
-.icon8 {
+.icon6,
+.icon7 {
   height: 25.23%;
   width: 7.8%;
   top: 63.8%;
@@ -66,29 +66,18 @@
   bottom: 10.97%;
   left: 89.08%;
 }
-.icon8,
-.icon9,
-.vector-parent7 {
-  position: absolute;
-  overflow: hidden;
-}
-.icon9 {
-  height: 25.23%;
-  width: 7.8%;
-  top: 63.8%;
+.icon7 {
   right: 85.82%;
-  bottom: 10.97%;
   left: 6.38%;
-  max-width: 100%;
-  max-height: 100%;
 }
-.vector-parent7 {
-  top: 0;
-  left: 4.38rem;
+.vector-group {
+  position: relative;
   border-radius: 50px;
   background-color: #3b38b2;
   width: 81.25rem;
   height: 31.25rem;
+  overflow: hidden;
+  flex-shrink: 0;
   text-align: center;
   font-size: 4.38rem;
   color: #fff;

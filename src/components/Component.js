@@ -26,8 +26,8 @@ const Component = memo(
     }, [iconBorderRadius]);
 
     return (
-      <div className="div21" style={divStyle}>
-        <img className="icon6" alt="" src={prop} style={iconStyle} />
+      <div className="div41" style={divStyle}>
+        <img className="icon5" alt="" src={prop} style={iconStyle} />
       </div>
     );
   }

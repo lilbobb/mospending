@@ -1,4 +1,4 @@
-.frame-child6 {
+.frame-child57 {
   position: relative;
   border-radius: 50%;
   width: 3.28rem;
@@ -28,13 +28,13 @@
   font-weight: 500;
   color: #757095;
 }
-.frame-parent9 {
+.frame-parent30 {
   flex-direction: column;
   align-items: flex-start;
   gap: 0.5rem;
 }
 .ellipse-parent7,
-.frame-parent9,
+.frame-parent30,
 .frame-wrapper1 {
   display: flex;
   justify-content: flex-start;
@@ -47,7 +47,7 @@
 .frame-wrapper1 {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 1rem;
   border-radius: 32px;
   background-color: #fff;
   box-shadow: 0 97.03588104248047px 77.63px rgba(0, 0, 0, 0.03),

@@ -12,8 +12,8 @@ const ContainerForm = memo(({ dimensionCode, propTop, propLeft }) => {
   return (
     <div className="frame-wrapper1" style={frameDivStyle}>
       <div className="ellipse-parent7">
-        <img className="frame-child6" alt="" src={dimensionCode} />
-        <div className="frame-parent9">
+        <img className="frame-child57" alt="" src={dimensionCode} />
+        <div className="frame-parent30">
           <div className="wrapper">
             <div className="div42">$28,900</div>
           </div>
