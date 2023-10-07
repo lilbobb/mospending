@@ -2,9 +2,9 @@ import { memo } from "react";
 import NoiseIcon from "./NoiseIcon";
 import "./Mospending.css";
 
-const Mospending = memo(({ mospending11, showMospending11 }) => {
+const Mospending1 = memo(({ mospending11, showMospending11 }) => {
   return (
-    <div className="mospending">
+    <div className="mospending2">
       <div className="frame">
         {showMospending11 && (
           <img className="mospending-1-1" alt="" src={mospending11} />
@@ -18,4 +18,4 @@ const Mospending = memo(({ mospending11, showMospending11 }) => {
   );
 });
 
-export default Mospending;
+export default Mospending1;

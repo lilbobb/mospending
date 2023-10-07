@@ -1,0 +1,402 @@
+.line-icon {
+  position: absolute;
+  top: 1.09rem;
+  left: 1.98rem;
+  width: 18.58rem;
+  height: 6.87rem;
+}
+.union-icon {
+  position: relative;
+  width: 4.57rem;
+  height: 3.03rem;
+}
+.div39,
+.income {
+  position: absolute;
+  top: 0.5rem;
+  left: 1.6rem;
+}
+.div39 {
+  top: 1.51rem;
+  left: 0.41rem;
+  font-size: 0.69rem;
+  font-family: Gilroy-Bold;
+  color: #fff;
+}
+.group-child38 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 2.92px;
+  border: 0.7px solid #feffff;
+  box-sizing: border-box;
+  width: 0.73rem;
+  height: 0.73rem;
+}
+.vector-icon21 {
+  position: absolute;
+  height: 48.5%;
+  width: 44.57%;
+  top: 25.75%;
+  right: 27.72%;
+  bottom: 25.75%;
+  left: 27.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent12 {
+  position: absolute;
+  top: 0.5rem;
+  left: 0.41rem;
+  width: 0.73rem;
+  height: 0.73rem;
+}
+.button1 {
+  position: absolute;
+  top: 0;
+  left: 9.01rem;
+  width: 4.57rem;
+  height: 3.03rem;
+  font-size: 0.59rem;
+  color: #868799;
+  font-family: Gilroy-Medium;
+}
+.span1 {
+  color: #141736;
+}
+.span2 {
+  color: #1f203f;
+}
+.dec-3 {
+  position: absolute;
+  top: 0;
+  left: 2.87rem;
+}
+.span3 {
+  color: #161616;
+}
+.dec-4,
+.dec-6,
+.dec-7 {
+  position: absolute;
+  top: 0;
+  left: 5.73rem;
+}
+.dec-6,
+.dec-7 {
+  left: 11.5rem;
+}
+.dec-7 {
+  left: 14.37rem;
+}
+.span6 {
+  color: #080808;
+}
+.dec-8 {
+  position: absolute;
+  top: 0;
+  left: 17.23rem;
+}
+.dec-5 {
+  top: 0;
+  left: 8.64rem;
+  color: #0177fb;
+}
+.dec-5,
+.k7,
+.month {
+  position: absolute;
+}
+.month {
+  top: 11.19rem;
+  left: 2rem;
+  width: 18.55rem;
+  height: 0.56rem;
+}
+.k7 {
+  top: 0;
+}
+.k7,
+.k8,
+.k9 {
+  left: 0.02rem;
+}
+.k8 {
+  position: absolute;
+  top: 2.28rem;
+}
+.k9 {
+  top: 4.57rem;
+}
+.k10,
+.k11,
+.k9 {
+  position: absolute;
+}
+.k10 {
+  top: 6.84rem;
+  left: 0.07rem;
+}
+.k11 {
+  top: 9.13rem;
+  left: 0;
+}
+.counter-child {
+  position: absolute;
+  top: 2.13rem;
+  left: 0.55rem;
+  border-radius: 50%;
+  background-color: #0177fb;
+  width: 0.14rem;
+  height: 0.14rem;
+}
+.counter {
+  position: absolute;
+  top: 0.55rem;
+  left: 0;
+  width: 0.69rem;
+  height: 9.7rem;
+}
+.group-child39 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #fff;
+  width: 1.37rem;
+  height: 1.37rem;
+}
+.group-child40 {
+  top: 0.14rem;
+  left: 0.14rem;
+  width: 1.1rem;
+  height: 1.1rem;
+  object-fit: cover;
+}
+.group-child40,
+.group-child41,
+.group-child42 {
+  position: absolute;
+  border-radius: 50%;
+}
+.group-child41 {
+  top: 0.67rem;
+  left: 0.73rem;
+  background-color: #fff;
+  width: 1.35rem;
+  height: 1.35rem;
+}
+.group-child42 {
+  top: 0;
+  left: 0;
+  background-color: #e2efff;
+  width: 0.96rem;
+  height: 0.96rem;
+}
+.tr {
+  position: absolute;
+  top: 0.24rem;
+  left: 0.26rem;
+  font-weight: 800;
+  display: inline-block;
+  width: 0.44rem;
+  height: 0.48rem;
+}
+.ellipse-parent5 {
+  position: absolute;
+  top: 0.87rem;
+  left: 0.92rem;
+  width: 0.96rem;
+  height: 0.96rem;
+}
+.ellipse-parent4,
+.user {
+  position: absolute;
+  width: 2.08rem;
+  height: 2.02rem;
+}
+.ellipse-parent4 {
+  top: 0;
+  left: 0;
+}
+.user {
+  top: 3.9rem;
+  left: 4.67rem;
+  font-size: 0.37rem;
+  color: #0177fb;
+  font-family: Gilroy;
+}
+.chart-icon,
+.chart1 {
+  position: absolute;
+  top: 2.35rem;
+  left: 1.98rem;
+  width: 20.03rem;
+  height: 8.2rem;
+}
+.chart1 {
+  top: 4.49rem;
+  left: 0.01rem;
+  width: 22rem;
+  height: 11.75rem;
+  color: #a5b4cb;
+  font-family: Gilroy-SemiBold;
+}
+.div40,
+.savings {
+  position: absolute;
+  top: 0.43rem;
+  left: 1.44rem;
+}
+.div40 {
+  left: 5.88rem;
+  font-family: Gilroy-Bold;
+  color: #7c8da7;
+}
+.nav-bar-child {
+  position: absolute;
+  top: 0.37rem;
+  left: 0;
+  width: 0.91rem;
+  height: 0.91rem;
+}
+.group-icon14 {
+  position: absolute;
+  height: 25.09%;
+  width: 3.29%;
+  top: 37.07%;
+  right: 73.47%;
+  bottom: 37.84%;
+  left: 23.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child43 {
+  border-radius: 12.94px;
+  border: 0.7px solid #e5e9f4;
+  box-sizing: border-box;
+  width: 3.75rem;
+  height: 1.65rem;
+}
+.group-child43,
+.vector-icon22,
+.week {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.vector-icon22 {
+  height: 31.65%;
+  width: 14.99%;
+  top: 37.63%;
+  right: -1.01%;
+  bottom: 30.72%;
+  left: 86.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.week-parent {
+  position: absolute;
+  top: 0.43rem;
+  left: 0.64rem;
+  width: 2.46rem;
+  height: 0.75rem;
+}
+.nav-bar,
+.rectangle-parent13 {
+  position: absolute;
+  height: 1.65rem;
+}
+.rectangle-parent13 {
+  top: 0;
+  left: 16.82rem;
+  width: 3.75rem;
+}
+.nav-bar {
+  top: 2.11rem;
+  left: 0;
+  width: 20.57rem;
+  font-size: 0.64rem;
+}
+.group-icon15 {
+  position: absolute;
+  height: 33.03%;
+  width: 3.29%;
+  top: 32.34%;
+  right: 11.6%;
+  bottom: 34.63%;
+  left: 85.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child44 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 4.39px;
+  background-color: #0177fb;
+  width: 1.19rem;
+  height: 1.19rem;
+}
+.group-child45 {
+  top: 0;
+  left: 0.44rem;
+  height: 0.55rem;
+}
+.group-child45,
+.group-child46,
+.group-child47 {
+  position: absolute;
+  border-radius: 5.12px;
+  background-color: #fff;
+  width: 0.09rem;
+}
+.group-child46 {
+  top: 0.14rem;
+  left: 0.22rem;
+  height: 0.41rem;
+}
+.group-child47 {
+  top: 0.27rem;
+  left: 0;
+  height: 0.27rem;
+}
+.rectangle-parent15 {
+  position: absolute;
+  top: 0.32rem;
+  left: 0.33rem;
+  width: 0.53rem;
+  height: 0.55rem;
+}
+.rectangle-parent14 {
+  position: absolute;
+  top: 0.02rem;
+  left: 19.38rem;
+  width: 1.19rem;
+  height: 1.19rem;
+}
+.chart,
+.top1 {
+  position: absolute;
+}
+.top1 {
+  top: 0;
+  left: 0;
+  width: 20.57rem;
+  height: 1.25rem;
+  font-size: 1.01rem;
+}
+.chart {
+  top: 4.98rem;
+  left: 27.15rem;
+  width: 22.01rem;
+  height: 16.24rem;
+  text-align: left;
+  font-size: 0.46rem;
+  color: #141736;
+  font-family: Gilroy-Medium;
+}

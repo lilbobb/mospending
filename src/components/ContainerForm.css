@@ -1,0 +1,67 @@
+.frame-child6 {
+  position: relative;
+  border-radius: 50%;
+  width: 3.28rem;
+  height: 3.28rem;
+  object-fit: cover;
+}
+.div42 {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 0.85rem;
+  font-weight: 600;
+}
+.wrapper {
+  border-radius: 32px;
+  background-color: #ebebf6;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0.38rem 0.75rem;
+}
+.received-from-michael {
+  position: relative;
+  font-size: 0.88rem;
+  letter-spacing: -0.02em;
+  line-height: 1.13rem;
+  font-weight: 500;
+  color: #757095;
+}
+.frame-parent9 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+.ellipse-parent7,
+.frame-parent9,
+.frame-wrapper1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.ellipse-parent7 {
+  flex-direction: row;
+  align-items: center;
+  gap: 0.75rem;
+}
+.frame-wrapper1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 32px;
+  background-color: #fff;
+  box-shadow: 0 97.03588104248047px 77.63px rgba(0, 0, 0, 0.03),
+    0 62.89362716674805px 45.46px rgba(0, 0, 0, 0.02),
+    0 37.37678527832031px 24.73px rgba(0, 0, 0, 0.02),
+    0 19.407175064086914px 12.61px rgba(0, 0, 0, 0.01),
+    0 7.906628131866455px 6.33px rgba(0, 0, 0, 0.01),
+    0 1.7969608306884766px 3.05px rgba(0, 0, 0, 0.01);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0.75rem 10rem 0.75rem 1.13rem;
+  text-align: left;
+  font-size: 0.91rem;
+  color: #3734a9;
+  font-family: Manrope;
+}

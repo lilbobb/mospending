@@ -1,0 +1,249 @@
+.card-child,
+.recipients {
+  position: absolute;
+  top: 1.52rem;
+  left: 0.09rem;
+}
+.card-child {
+  top: 1.9rem;
+  left: 0.87rem;
+  border-radius: 13.89px;
+  background-color: #f3f3f3;
+  box-shadow: 0 16.818748474121094px 32.91px rgba(0, 0, 0, 0.1);
+  width: 11.15rem;
+  height: 6.87rem;
+}
+.card-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8.04px;
+  background-color: #fff;
+  box-shadow: 0 3.65625px 16.82px rgba(0, 0, 0, 0.06);
+  width: 12.89rem;
+  height: 8.14rem;
+}
+.span {
+  color: #161616;
+}
+.party {
+  color: #141736;
+}
+.card-inner,
+.group-party {
+  position: absolute;
+  top: 0.86rem;
+  left: 1.01rem;
+}
+.card-inner {
+  top: 5.01rem;
+  border-radius: 50%;
+  width: 2.01rem;
+  height: 2.01rem;
+  object-fit: cover;
+}
+.card-child1 {
+  position: absolute;
+  top: 2.3rem;
+  left: 1.11rem;
+  width: 3.34rem;
+  height: 1.37rem;
+}
+.group-child31 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  border: 0.7px dashed #dde5f0;
+  box-sizing: border-box;
+  width: 1.65rem;
+  height: 1.65rem;
+}
+.div31,
+.ellipse-parent1 {
+  position: absolute;
+  top: 0.41rem;
+  left: 0.43rem;
+}
+.ellipse-parent1 {
+  top: 2.16rem;
+  left: 5.26rem;
+  width: 1.65rem;
+  height: 1.65rem;
+  font-size: 0.69rem;
+  color: #0176fa;
+}
+.card-child2,
+.vector-icon19 {
+  position: absolute;
+  height: 12.21%;
+  width: 8.33%;
+  top: 25.53%;
+  right: 8.13%;
+  bottom: 62.26%;
+  left: 83.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon19 {
+  height: 5.87%;
+  width: 2.42%;
+  top: 64.42%;
+  right: 12.49%;
+  bottom: 29.72%;
+  left: 85.09%;
+}
+.dakota-milk,
+.div32 {
+  position: absolute;
+  left: 0;
+}
+.dakota-milk {
+  top: 0;
+}
+.div32 {
+  top: 1.16rem;
+  font-size: 0.64rem;
+  color: #7d8da6;
+}
+.dakota-milk-parent {
+  position: absolute;
+  top: 5.05rem;
+  left: 3.77rem;
+  width: 4rem;
+  height: 1.97rem;
+  color: #131635;
+  font-family: Gilroy-SemiBold;
+}
+.card {
+  position: absolute;
+  top: 7.37rem;
+  left: 0;
+  width: 12.89rem;
+  height: 8.76rem;
+  font-size: 0.73rem;
+  color: #7c8ca6;
+  font-family: Gilroy-Medium;
+}
+.users-child,
+.users-item {
+  position: absolute;
+  top: 0;
+  border-radius: 50%;
+  width: 1.46rem;
+  height: 1.46rem;
+  object-fit: cover;
+}
+.users-child {
+  left: 0;
+}
+.users-item {
+  left: 4.74rem;
+}
+.users-inner {
+  left: 7.11rem;
+  object-fit: cover;
+}
+.group-child32,
+.users-child1,
+.users-inner {
+  position: absolute;
+  top: 0;
+  border-radius: 50%;
+  width: 1.46rem;
+  height: 1.46rem;
+}
+.users-child1 {
+  left: 9.48rem;
+  object-fit: cover;
+}
+.group-child32 {
+  left: 0;
+  background-color: #ffeff0;
+}
+.ds {
+  position: absolute;
+  top: 0.41rem;
+  left: 0.41rem;
+  font-weight: 800;
+}
+.ellipse-parent2 {
+  position: absolute;
+  top: 0;
+  left: 2.38rem;
+  width: 1.46rem;
+  height: 1.46rem;
+}
+.vector-icon20 {
+  position: absolute;
+  height: 22.53%;
+  width: 2.49%;
+  top: 20.69%;
+  right: -0.39%;
+  bottom: 56.78%;
+  left: 97.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.users-child2 {
+  position: absolute;
+  top: 2.19rem;
+  left: 4.88rem;
+  border-radius: 6.58px;
+  background-color: #0177fb;
+  width: 1.19rem;
+  height: 0.09rem;
+}
+.users {
+  position: absolute;
+  top: 3.6rem;
+  left: 0.11rem;
+  width: 12.52rem;
+  height: 2.28rem;
+  font-size: 0.5rem;
+  color: #fe6470;
+  font-family: Gilroy;
+}
+.edit-ic-icon,
+.search-icon {
+  position: absolute;
+  height: 66.12%;
+  width: 5.28%;
+  top: 17.21%;
+  right: 0;
+  bottom: 16.67%;
+  left: 94.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.edit-ic-icon {
+  height: 60.28%;
+  width: 4.72%;
+  top: 20.14%;
+  right: 14.65%;
+  bottom: 19.58%;
+  left: 80.63%;
+}
+.top {
+  position: absolute;
+  top: 0;
+  left: 0.09rem;
+  width: 12.77rem;
+  height: 1rem;
+  font-size: 0.82rem;
+  color: #131635;
+}
+.contacts-pannel {
+  position: absolute;
+  top: 4.94rem;
+  left: 51.1rem;
+  width: 12.89rem;
+  height: 16.13rem;
+  text-align: left;
+  font-size: 0.64rem;
+  color: #7d8da6;
+  font-family: Gilroy-SemiBold;
+}

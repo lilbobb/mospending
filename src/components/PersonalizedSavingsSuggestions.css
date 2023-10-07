@@ -1,0 +1,96 @@
+.vector-icon31 {
+  position: absolute;
+  height: 29.6%;
+  width: 11.38%;
+  top: 10.8%;
+  right: 75.92%;
+  bottom: 59.6%;
+  left: 12.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.3;
+}
+.we-offer-personalized {
+  position: relative;
+  display: inline-block;
+  width: 50.81rem;
+  height: 11.25rem;
+  flex-shrink: 0;
+}
+.create-account1 {
+  position: relative;
+  font-weight: 500;
+}
+.create-account-container {
+  border-radius: 31px;
+  background-color: #ffa051;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.25rem 2.5rem;
+  text-align: left;
+  font-size: 0.88rem;
+}
+.we-offer-personalized-savings-parent {
+  position: absolute;
+  top: 6.99rem;
+  left: 15.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 2.5rem;
+}
+.frame-child7,
+.icon8 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame-child7 {
+  position: absolute;
+  height: 16.44%;
+  width: 6.38%;
+  top: 0;
+  right: 93.62%;
+  bottom: 83.56%;
+  left: 0;
+  overflow: hidden;
+}
+.icon8 {
+  height: 25.23%;
+  width: 7.8%;
+  top: 63.8%;
+  right: 3.12%;
+  bottom: 10.97%;
+  left: 89.08%;
+}
+.icon8,
+.icon9,
+.vector-parent7 {
+  position: absolute;
+  overflow: hidden;
+}
+.icon9 {
+  height: 25.23%;
+  width: 7.8%;
+  top: 63.8%;
+  right: 85.82%;
+  bottom: 10.97%;
+  left: 6.38%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-parent7 {
+  top: 0;
+  left: 4.38rem;
+  border-radius: 50px;
+  background-color: #3b38b2;
+  width: 81.25rem;
+  height: 31.25rem;
+  text-align: center;
+  font-size: 4.38rem;
+  color: #fff;
+  font-family: Manrope;
+}
